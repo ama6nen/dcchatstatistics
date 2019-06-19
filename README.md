@@ -7,6 +7,6 @@ Statistics for exported discord chat logs.
 * Move the file to the same folder with the statistics app, and name it to src.txt
 * Run the statistics app
 
-##Screenshots
+## Screenshots
 ![alt text](https://i.imgur.com/cFeFbN9.png "")
 
