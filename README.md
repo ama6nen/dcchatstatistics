@@ -8,4 +8,5 @@ Statistics for exported discord chat logs.
 * Run the statistics app
 
 ##Screenshots
-(https://i.imgur.com/cFeFbN9.png)
+![alt text](https://i.imgur.com/cFeFbN9.png "")
+
